@@ -1,0 +1,4 @@
+2026-10-07T13:56:13 | OFFBOARD | U004 | david.test@example.local | access_revoked=0
+2026-10-07T13:57:51 | ONBOARD | U002 | john.mensah@example.local | access_assigned=0
+2026-10-07T13:59:07 | ONBOARD | U005 | maria.test@example.local | access_assigned=3
+2026-10-07T14:01:02 | OFFBOARD | U005 | maria.test@example.local | access_revoked=3

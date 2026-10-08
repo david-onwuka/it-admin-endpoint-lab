@@ -1,0 +1,17 @@
+user_id,app_id,access_role,status
+U001,APP001,member,active
+U001,APP002,member,active
+U001,APP003,user,active
+U001,APP004,developer,active
+U002,APP001,member,active
+U002,APP002,member,active
+U002,APP003,user,active
+U003,APP003,user,active
+U003,APP004,user,active
+U004,APP001,member,revoked
+U004,APP002,member,revoked
+U004,APP003,user,revoked
+U004,APP004,user,revoked
+U005,APP001,member,revoked
+U005,APP002,member,revoked
+U005,APP003,user,revoked

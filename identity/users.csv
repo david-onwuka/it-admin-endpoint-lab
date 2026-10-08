@@ -1,0 +1,6 @@
+user_id,full_name,email,department,role,status
+U001,Ada Okafor,ada.okafor@example.local,Engineering,Engineer,active
+U002,John Mensah,john.mensah@example.local,Support,Support Engineer,active
+U003,Grace Obi,grace.obi@example.local,Finance,Finance Analyst,active
+U004,David Test,david.test@example.local,Engineering,Engineer,terminated
+U005,Maria Test,maria.test@example.local,Support,Support Engineer,terminated

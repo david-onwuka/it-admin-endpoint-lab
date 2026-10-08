@@ -1,0 +1,2 @@
+device_id,hostname,assigned_user,os,status,encryption,updates,compliance,kernel,memory,root_disk,last_inventory,last_status_change
+D001,DESKTOP-06P9THF,U001,Ubuntu 24.04.4 LTS,retired,unknown,pending,review_required,6.18.40.1-microsoft-standard-WSL2,3.7Gi,1007G,2026-10-07T14:11:06,2026-10-07T14:14:16
